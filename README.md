@@ -67,7 +67,6 @@ python main.py
 ![Create Directories](screenshots/2.png)
 ![Remove Duplicates](screenshots/3.png)
 ![Analyze File Sizes](screenshots/4.png)
-![Merge Similar Folders](screenshots/5.png)
 
 ## Contributing
 
